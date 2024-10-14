@@ -1,4 +1,4 @@
-#G-Squad
+# G-Squad
 ## Reddit
 ### What is Reddit?
 > Reddit is a website designed to give communities the ability to make their own online forums relating to their special interest. 
